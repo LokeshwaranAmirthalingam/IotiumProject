@@ -1,1 +1,1 @@
-This File is random
+This File is random which is updated to check terminal.
